@@ -1,0 +1,481 @@
+<div className="home1-location-area mb-120">
+        <div className="container">
+            <div className="row mb-60">
+                <div className="col-12 d-flex flex-wrap align-items-end justify-content-md-between justify-content-start gap-3">
+                    <div className="section-title1">
+                        <h2>Get Dream With <span>Location</span></h2>
+                        <p>To choose your trending job dream & to make future bright.</p>
+                    </div>
+                    <div className="swiper-btn1 d-flex align-items-center">
+                        <div className="left-btn prev-1">
+                            <img src="assets/images/icon/explore-elliose.svg" alt="">
+                        </div>
+                        <div className="right-btn next-1">
+                            <img src="assets/images/icon/explore-elliose.svg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="row">
+                <div className="swiper location-slider">
+                    <div className="swiper-wrapper">
+                        <div className="swiper-slide">
+                            <div className="location-card">
+                                <div className="location-img">
+                                    <img className="img-fluid" src="assets/images/bg/dhaka1.png" alt="">
+                                </div>
+                                <div className="location-content text-center">
+                                    <h5><a href="job-listing1.html"><img src="assets/images/icon/location.svg" alt="">Dhaka, Bangladesh</a></h5>
+                                    <p>Job Available: <span>2934</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="swiper-slide">
+                            <div className="location-card">
+                                <div className="location-img">
+                                    <img className="img-fluid" src="assets/images/bg/newyork1.png" alt="">
+                                </div>
+                                <div className="location-content text-center">
+                                    <h5><a href="job-listing1.html"><img src="assets/images/icon/location.svg" alt="">NewYork, USA</a></h5>
+                                    <p>Job Available: <span>2186</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="swiper-slide">
+                            <div className="location-card">
+                                <div className="location-img">
+                                    <img className="img-fluid" src="assets/images/bg/chicago.png" alt="">
+                                </div>
+                                <div className="location-content text-center">
+                                    <h5><a href="job-listing1.html"><img src="assets/images/icon/location.svg" alt="">Chicago, Australia</a></h5>
+                                    <p>Job Available: <span>5678</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="swiper-slide">
+                            <div className="location-card">
+                                <div className="location-img">
+                                    <img className="img-fluid" src="assets/images/bg/sylhet.png" alt="">
+                                </div>
+                                <div className="location-content text-center">
+                                    <h5><a href="job-listing1.html"><img src="assets/images/icon/location.svg" alt="">Sylhet, Bangladesh</a></h5>
+                                    <p>Job Available: <span>1234</span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div className="home1-review-area mb-120">
+        <div className="container">
+            <div className="row mb-60">
+                <div className="col-12 d-flex flex-wrap align-items-end justify-content-md-between justify-content-start gap-3">
+                    <div className="section-title1">
+                        <h2>Trusted User <span>Reviews</span></h2>
+                        <p>To choose your trending job dream & to make future bright.</p>
+                    </div>
+                    <div className="swiper-btn1 d-flex align-items-center">
+                        <div className="left-btn prev-2">
+                            <img src="assets/images/icon/explore-elliose.svg" alt="">
+                        </div>
+                        <div className="right-btn next-2">
+                            <img src="assets/images/icon/explore-elliose.svg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="row">
+                <div className="swiper testimonial-slider1">
+                    <div className="swiper-wrapper">
+                        <div className="swiper-slide">
+                            <div className="testimonial-card">
+                                <div className="author-img">
+                                    <img src="assets/images/bg/testimonial-author1.png" alt="">
+                                    <div className="quat-icon">
+                                        <img src="assets/images/icon/quat-icon.svg" alt="">
+                                    </div>
+                                </div>
+                                <div className="testimonial-content">
+                                    <div className="author-review-area">
+                                        <div className="author-area">
+                                            <h5>Jacoline Frangly</h5>
+                                            <span>React Developer</span>
+                                        </div>
+                                        <ul>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-half"></i></li>
+                                        </ul>
+                                    </div>
+                                    <p>On the other hand, we denounce with to the righteous indignation and dislike the men who are so beguiled to demoralized by the charms of pleasure.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="swiper-slide">
+                            <div className="testimonial-card">
+                                <div className="author-img">
+                                    <img src="assets/images/bg/testimonial-author2.png" alt="">
+                                    <div className="quat-icon">
+                                        <img src="assets/images/icon/quat-icon.svg" alt="">
+                                    </div>
+                                </div>
+                                <div className="testimonial-content">
+                                    <div className="author-review-area">
+                                        <div className="author-area">
+                                            <h5>Jordan Miycol</h5>
+                                            <span>UI/UX Engineer</span>
+                                        </div>
+                                        <ul>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-fill"></i></li>
+                                            <li><i className="bi bi-star-half"></i></li>
+                                        </ul>
+                                    </div>
+                                    <p>On the other hand, we denounce with to the righteous indignation and dislike the men who are so beguiled to demoralized by the charms of pleasure.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div className="home1-trusted-company mb-120">
+        <div className="container">
+            <div className="row">
+                <div className="col-lg-12">
+                    <div className="section-title">
+                        <h5>Our Trusted Company</h5>
+                    </div>
+                    <div className="swiper trusted-company-slider">
+                        <div className="swiper-wrapper">
+                            <div className="swiper-slide">
+                                <div className="company-logo">
+                                    <img src="assets/images/bg/company-logo/trusted-company-01.png" alt="">
+                                </div>
+                            </div>
+                            <div className="swiper-slide">
+                                <div className="company-logo">
+                                    <img src="assets/images/bg/company-logo/trusted-company-02.png" alt="">
+                                </div>
+                            </div>
+                            <div className="swiper-slide">
+                                <div className="company-logo">
+                                    <img src="assets/images/bg/company-logo/trusted-company-03.png" alt="">
+                                </div>
+                            </div>
+                            <div className="swiper-slide">
+                                <div className="company-logo">
+                                    <img src="assets/images/bg/company-logo/trusted-company-04.png" alt="">
+                                </div>
+                            </div>
+                            <div className="swiper-slide">
+                                <div className="company-logo">
+                                    <img src="assets/images/bg/company-logo/trusted-company-05.png" alt="">
+                                </div>
+                            </div>
+                            <div className="swiper-slide">
+                                <div className="company-logo">
+                                    <img src="assets/images/bg/company-logo/trusted-company-06.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div className="home1-top-recruiters mb-120">
+        <div className="container">
+            <div className="row mb-60">
+                <div className="col-12 d-flex flex-wrap align-items-end justify-content-md-between justify-content-start gap-3">
+                    <div className="section-title1">
+                        <h2>Our Top <span>Recruiters</span></h2>
+                        <p>To choose your trending job dream & to make future bright.</p>
+                    </div>
+                </div>
+            </div>
+            <div className="row">
+                <div className="slick-wrapper">
+                    <div id="slick1">
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-06.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Norland Company</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> New-York, USA</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 45 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>21</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-07.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Germaine Company</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Chicago, Australia</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 32 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>13</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-08.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Techman Digita</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Dhaka, Bangladesh</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 35 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>15</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-09.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Tario.Co Ltd</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Sylhet, Bangladesh</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 55 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>33</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-06.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Norland Company</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> New-York, USA</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 45 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>21</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-07.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Germaine Company</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Chicago, Australia</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 32 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>13</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-08.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Techman Digita</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Dhaka, Bangladesh</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 35 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>15</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-09.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Tario.Co Ltd</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Sylhet, Bangladesh</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 55 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>33</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-06.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Norland Company</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> New-York, USA</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 45 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>21</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-07.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Germaine Company</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Chicago, Australia</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 32 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>13</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-08.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Techman Digita</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Dhaka, Bangladesh</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 35 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>15</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="slide-item">
+                            <div className="recruters-card">
+                                <div className="company-area">
+                                    <div className="logo">
+                                        <img src="assets/images/bg/company-logo/company-09.png" alt="">
+                                    </div>
+                                    <div className="name-location">
+                                        <h5><a href="company-listing1.html">Tario.Co Ltd</a></h5>
+                                        <p><img src="assets/images/icon/location.svg" alt=""> Sylhet, Bangladesh</p>
+                                        <p><img src="assets/images/icon/person-2.svg" alt=""> 55 People</p>
+                                    </div>
+                                </div>
+                                <div className="job-details-vacancies">
+                                    <div className="apply-btn">
+                                        <a href="company-details.html"><span><img src="assets/images/icon/apply-ellipse.svg" alt=""></span>View Details</a>
+                                    </div>
+                                    <div className="vacancies">
+                                        <p>Vacancies: <span>33</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

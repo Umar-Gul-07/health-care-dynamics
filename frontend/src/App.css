@@ -1,3 +1,2 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* App.css */
+/* Removed @tailwind imports since this template uses Bootstrap and custom style.css, and Tailwind's preflight breaks it. */
